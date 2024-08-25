@@ -1,0 +1,12 @@
+author: BramChen
+core-version: >=5.0.8
+dependents: $:/languages/zh-Hans
+description: Chinese (China)
+modified: 20240825162943372
+name: zh-CN
+plugin-priority: 110
+plugin-type: language
+tags: 历史
+title: $:/languages/zh-CN
+type: application/json
+version: 5.2.7

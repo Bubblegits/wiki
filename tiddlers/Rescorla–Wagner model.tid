@@ -1,0 +1,48 @@
+created: 20240525162113080
+modified: 20240826044826305
+tags: 生物
+title: Rescorla–Wagner model
+
+The Rescorla–Wagner model ("R-W") is a model of classical conditioning, in which learning is conceptualized in terms of associations between conditioned (CS) and unconditioned (US) stimuli. A strong CS-US association means that the CS signals predict the US.
+
+{\displaystyle \Delta V_{X}^{n+1}=\alpha _{X}\beta (\lambda -V_{\mathrm {tot} })}
+and
+
+𝑉
+𝑋
+𝑛
++
+1
+=
+𝑉
+𝑋
+𝑛
++
+Δ
+𝑉
+𝑋
+𝑛
++
+1
+{\displaystyle V_{X}^{n+1}=V_{X}^{n}+\Delta V_{X}^{n+1}}
+where
+
+Δ
+𝑉
+𝑋
+{\displaystyle \Delta V_{X}} is the change in the strength, on a single trial, of the association between the CS labelled "X" and the US
+𝛼{\displaystyle \alpha } is the salience of X (bounded by 0 and 1)
+𝛽{\displaystyle \beta } is the rate parameter for the US (bounded by 0 and 1), sometimes called its association value
+𝜆{\displaystyle \lambda } is the maximum conditioning possible for the US
+𝑉
+𝑋
+{\displaystyle V_{X}} is the current associative strength of X
+𝑉
+t
+o
+t
+{\displaystyle V_{\mathrm {tot} }} is the total associative strength of all stimuli present, that is, X plus any others
+
+The physiological basis of association strength (V) may be the firing rate of dopamine neurons, since it encodes prediction error.
+
+See here https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826767/

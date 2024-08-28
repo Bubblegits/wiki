@@ -1,11 +1,12 @@
 author: JoeRenes
 core-version: >=5.0.8
+created: 20240828133817286
 dependents: 
 description: Mathematics typesetting plugin wrapping TeXZilla, a LaTeX to MathML parser
-modified: 20240826044826297
+modified: 20240828133819575
 plugin-type: plugin
 source: https://github.com/joerenes/TW5-TeXZilla
-tags: 生物
+tags: 
 title: $:/plugins/joerenes/TW5-TeXZilla
 type: application/json
 version: 0.0.1

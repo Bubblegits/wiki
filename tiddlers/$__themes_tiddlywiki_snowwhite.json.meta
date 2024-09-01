@@ -1,12 +1,13 @@
 author: JeremyRuston
 core-version: >=5.0.0
+created: 20240901060833008
 dependents: $:/themes/tiddlywiki/vanilla
 description: Emphasises individual tiddlers
-modified: 20240825162943374
+modified: 20240901060835188
 name: Snow White
 plugin-priority: 0
 plugin-type: theme
-tags: 历史
+tags: 
 title: $:/themes/tiddlywiki/snowwhite
 type: application/json
 version: 5.3.1

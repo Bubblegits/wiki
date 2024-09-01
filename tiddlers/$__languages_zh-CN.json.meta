@@ -1,12 +1,13 @@
 author: BramChen
 core-version: >=5.0.8
+created: 20240901060748737
 dependents: $:/languages/zh-Hans
 description: Chinese (China)
-modified: 20240825162943372
+modified: 20240901060755461
 name: zh-CN
 plugin-priority: 110
 plugin-type: language
-tags: 历史
+tags: 
 title: $:/languages/zh-CN
 type: application/json
 version: 5.2.7
